@@ -3,7 +3,7 @@
 This project is designed to share my knowledge on website buidling. 
 [technologies utilized: HTML, CSS, Bootstrap CSS framework, Pandas, Matplotlib]
 
-I have created a visualization dashboard website to share my analysis on weather trends. The custom dashboard shows individual pages for each plot and allows the user to navigate from page to page within the site. I have also built a landing page where there is a side by side comparison of all four plots. The last page in this dashboard shares the data used to create my analysis. 
+I have created a visualization dashboard website to share my analysis on weather trends from OpenWeatherMap API. The custom dashboard shows individual pages for each plot and allows the user to navigate from page to page within the site. I have also built a landing page where there is a side by side comparison of all four plots. The last page in this dashboard shares the data used to create my analysis. 
 
 Website Requirements (must consist of 7 pages total)
   1. Landing page 
