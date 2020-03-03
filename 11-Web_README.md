@@ -1,42 +1,27 @@
-## Unit 11 - Web
+Web Design Challenge
 
-### Overview
+This project is designed to share my knowledge on website buidling. 
+[technologies utilized: HTML, CSS, Bootstrap CSS framework, Pandas, Matplotlib]
 
-This week we will cover the anatomy of a website. Students will build websites using HTML and add styles to them with CSS. Students will also learn to use the Bootstrap CSS framework and deploy their websites to Github Pages.
+I have created a visualization dashboard website to share my analysis on weather trends. The custom dashboard shows individual pages for each plot and allows the user to navigate from page to page within the site. I have also built a landing page where there is a side by side comparison of all four plots. The last page in this dashboard shares the data used to create my analysis. 
 
-### Slide Shows
-
-* [11.1 Slide Show](https://drive.google.com/open?id=1lxy5fa6o05i5SA34xJuk7j0v0Ov5vpKkEinKP94WdQI)
-
-* [11.2 Slide Show](https://drive.google.com/open?id=1f_LEya3idmfjoaG2-DpfAmkBbk3EAEImHDpUN2sOm6w)
-
-### Lesson Plans
-
-* [11.1 - Lesson Plan](1/LessonPlan.md)
-* [11.2 - Lesson Plan](2/LessonPlan.md)
-* [11.3 - Lesson Plan](3/LessonPlan.md)
-
-### Homework Activities
-
-* [Web Dashboard](../../02-Homework/11-Web/Instructions/README.md)
-
-### Key Activities
-
-### Helpful Links
-
-* [Codecademy HTML & CSS](https://www.codecademy.com/learn/web)
-* [Mozilla HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [Github Pages](https://pages.github.com/)
-* [Bootstrap](https://getbootstrap.com/)
-
-### Sources
-
-* [Mozilla HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [Github Pages](https://pages.github.com/)
-* [Bootstrap](https://getbootstrap.com/)
-
-- - -
-
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
+Website Requirements:
+  1. Must consist of 7 pages total:
+  2. Landing page 
+  3. Links to each visualization page
+  4. Four visualization page each with:
+      - Descriptive title
+      - Heading tag
+      - Plot/visualization for the selected comparison
+      - Written analysis 
+  5. "Comparisons" page:
+      - Contains all of the visualizations
+      - Grid must be two visualizations across on screens medium and larger, and 1 across on extra-small and small screens
+  6. "Data" page:
+      - Displays a responsibe table containing the data used in the visualization
+      - Table must be boostrap table component
+      - Data must come from .csv file as HTML
+  7. Website must contain a navigation menu at the top right hand corner of each page. Navigation menu must contain:
+      - Name of the site on the left of the nav which allows users to return to the landing page from any page
+      - Dropdown menu on the right of the navbar named "Plots"
+      - 2 more links on the right - "Comparisons" and "Data"
