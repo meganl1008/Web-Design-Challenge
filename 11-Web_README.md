@@ -1,4 +1,4 @@
-Web Design Challenge
+<b>Web Design Challenge</b>
 
 This project is designed to share my knowledge on website buidling. 
 [technologies utilized: HTML, CSS, Bootstrap CSS framework, Pandas, Matplotlib]
